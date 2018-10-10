@@ -8,7 +8,8 @@ Launch jupyter and open ipynb file & Run all Cell
 #Final Kernel Link on Kaggle
 https://www.kaggle.com/parveshdhawan/bag-of-words-meets-bags-of-popcorn?scriptVersionId=6366058
 
-Approach ==>
+Approach:-
+
   |1.)| Look around data & Summarize|
   |2.)| Visualizing Data Create Wordcloud of Train Data also histogram of word counts|
   |3.)| Clean Data|
