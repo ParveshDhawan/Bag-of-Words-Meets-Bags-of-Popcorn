@@ -1,6 +1,5 @@
 # Bag-of-Words-Meets-Bags-of-Popcorn
-Kaggle_Competition
-
+Kaggle_Competition || Sentiment Analysis
 Code is written in python3
 Extract a1l files into Document 
 Launch jupyter and open ipynb file & Run all Cell
@@ -11,9 +10,15 @@ https://www.kaggle.com/parveshdhawan/bag-of-words-meets-bags-of-popcorn?scriptVe
 Approach:-
 
   |1.)| Look around data & Summarize|
+  
   |2.)| Visualizing Data Create Wordcloud of Train Data also histogram of word counts|
+  
   |3.)| Clean Data|
+  
   |4.)| Converting document corpus to vectorization|
+  
   |5.)| converted bag of wordcount|
+  
   |6.)| TF-IDF |
+  
   |7.)| Modeling|
